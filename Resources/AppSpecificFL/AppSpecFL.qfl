@@ -3,7 +3,7 @@
 '=====================================( Function to open tricentis demowebshop Web Application )=============================================
 '==========================================================================================================================
 Function fnOpenWebApp
-'This is for launching the chorme broser.
+'This is for launching the chorme browser.
 	SystemUtil.Run "C:\Program Files\Google\Chrome\Application\chrome.exe" , "http://demowebshop.tricentis.com/"
 End Function
 
