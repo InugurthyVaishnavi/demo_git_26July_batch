@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "Demo_checkpoint2", "Demo_checkpoint2\Test.tsp", "1A3CF99D-7145-449E-892D-71CFFD1432A1"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\QTP-Hybrid-Framework (1)\QTP-Hybrid-Framework\TestCases\Demo_checkpoint2\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+		BaselineId = 
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		1A3CF99D-7145-449E-892D-71CFFD1432A1.Debug|Any CPU.Build.0 = Debug|Any CPU
+		1A3CF99D-7145-449E-892D-71CFFD1432A1.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		1A3CF99D-7145-449E-892D-71CFFD1432A1.Release|Any CPU.Build.0 = Release|Any CPU
+		1A3CF99D-7145-449E-892D-71CFFD1432A1.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
